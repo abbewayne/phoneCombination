@@ -44,12 +44,12 @@ JRE 1.8 is required.
 
 12. Should be able to test Application Phone Combination. 
 
-Demo GIF:
+Demo video:
 
 https://s3.amazonaws.com/img0.recordit.co/0AHDIvFBR3.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1589278771&Signature=wh8X2WaOQDeNh804o%2BntDZUtWmU%3D
 
 ```
-ScreenShots:
+
 
 
 
